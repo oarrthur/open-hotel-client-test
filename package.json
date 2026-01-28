@@ -50,7 +50,6 @@
     "pixi-cull": "^1.0.0",
     "pixi-viewport": "^4.13.2",
     "pixi.js": "^5.3.3",
-    "pixi.js-legacy": "^5.3.3",
     "promise-async": "^0.2.0",
     "reflect-metadata": "^0.1.13",
     "socket.io-client": "^2.3.0",
