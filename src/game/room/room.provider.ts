@@ -4,7 +4,7 @@ import { ApplicationProvider } from '../pixi/application.provider'
 import { GameModule } from '../game.module'
 import { RoomEngine } from './Room.engine'
 import { RoomModel } from './types/room.model'
-import { Container } from 'pixi.js-legacy'
+import { Container } from 'pixi.js'
 import { RoomModule } from './room.module'
 
 @Provider()
